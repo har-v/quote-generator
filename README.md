@@ -2,12 +2,12 @@
 Simple quote generator that shows Japanese proverbs and its English translation.
 Created using HTML, CSS, JavaScript.
 
-<img src="https://user-images.githubusercontent.com/66881641/85093016-fb982980-b1e2-11ea-87bc-ee4f409697ca.PNG" width="500">
+<img src="https://user-images.githubusercontent.com/66881641/85179040-d0abe500-b277-11ea-9bc2-c4d02ac7bd0b.PNG" width="500">
 
 ### To-do:
-- [ ] Add audio -- toggle mute/unmute button
-- [ ] Text fade in/typing effect
+- [ ] ⠀⠀⠀⠀⠀⠀⠀
 ### Completed:
+- [x] Add audio -- toggle mute/unmute button
 - [x] Random quote generator
 - [x] Time and date
 - [x] Basic layout
