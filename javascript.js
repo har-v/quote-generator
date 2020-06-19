@@ -32,7 +32,7 @@ startTime();
 /*QUOTES--------------------------------------------------------------------------------------------------------------*/
 var quotes = [{japanese: "出る杭は打たれる", english: "The stake that sticks up gets hammered down."},
             {japanese: "知らぬが仏", english: "Not knowing is Buddha."},
-            {japanese: "十人十色", english: "Ten persons, ten colors."},
+            {japanese: "十人十色", english: "Ten persons, ten colours."},
             {japanese: "因果応報", english: "Cause bring result / bad causes bring bad results."},
             {japanese: "弱肉強食", english: "The weak are meat; the strong eat."},];
 
