@@ -6,6 +6,7 @@ Created using HTML, CSS, JavaScript.
 
 ### To-do:
 - [ ] Add audio -- toggle mute/unmute button
+- [ ] Text fade in/typing effect
 ### Completed:
 - [x] Random quote generator
 - [x] Time and date
