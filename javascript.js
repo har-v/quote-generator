@@ -46,9 +46,9 @@ var audio = document.getElementById("audioPlayer");
 function getAudio() {
     if (audio.paused) {
         audio.play();
-        document.getElementById("audioBtn").style.backgroundImage="url(icons8-audio-24.png)";
+        document.getElementById("audioBtn").style.backgroundImage="url(media/icons8-audio-24.png)";
     } else {
         audio.pause();
-        document.getElementById("audioBtn").style.backgroundImage="url(icons8-mute-24.png)";
+        document.getElementById("audioBtn").style.backgroundImage="url(media/icons8-mute-24.png)";
     }
 }
