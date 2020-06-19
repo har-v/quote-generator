@@ -37,6 +37,17 @@ html, body {
     background-size: cover;
 }
 
+#audioBtn {
+    background: url(icons8-mute-24.png);
+    border: none;
+    height: 8%;
+    width: 6%;
+    top: 80%;
+    left: 47%;
+    position: absolute;
+    cursor: pointer;
+}
+
 .dateSection {
     display: flex;
     flex-direction: row;
