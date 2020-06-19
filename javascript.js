@@ -1,4 +1,4 @@
-/*DATE AND TIME*/
+/*DATE AND TIME*/  
 var date = new Date();
 var monthsArr = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'DEC'];
 var month = monthsArr[date.getMonth()];
